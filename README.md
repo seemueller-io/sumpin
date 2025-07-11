@@ -1,6 +1,8 @@
 # Professional Hierarchy Generator
+[![Build](https://github.com/seemueller-io/sumpin/actions/workflows/ci.yml/badge.svg)](https://github.com/seemueller-io/sumpin/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Attempt at using `@openai/agents` to graph hierarchal relationships in business. 
+Uses `@openai/agents` to graph hierarchal business relationships. 
 
 ## Features
 
@@ -19,6 +21,7 @@ Attempt at using `@openai/agents` to graph hierarchal relationships in business.
 ### Installation
 
 ```shell
+# install bun: (curl -fsSL https://bun.sh/install | bash)
 bun install
 ```
 
