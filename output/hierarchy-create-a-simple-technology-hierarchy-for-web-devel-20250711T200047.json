@@ -1,0 +1,31 @@
+{
+  "version": "v1",
+  "domain": "Technology",
+  "structure": [
+    "Front-end",
+    "Back-end",
+    "Database",
+    "DevOps"
+  ],
+  "description": "A hierarchy outlining the main components and roles involved in web development.",
+  "commonSkills": [
+    "HTML/CSS",
+    "JavaScript",
+    "Responsive Design",
+    "Backend Programming",
+    "Database Management"
+  ],
+  "commonTools": [
+    "Visual Studio Code",
+    "Git",
+    "Postman",
+    "Node.js",
+    "MySQL"
+  ],
+  "examples": [
+    "Building a static website",
+    "Creating a dynamic web application",
+    "Developing APIs",
+    "Implementing user authentication"
+  ]
+}

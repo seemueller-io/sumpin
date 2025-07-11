@@ -1,0 +1,30 @@
+{
+  "version": "v1",
+  "domain": "Finance",
+  "structure": [
+    "Retail Banking",
+    "Commercial Banking",
+    "Investment Banking",
+    "Private Banking"
+  ],
+  "description": "A hierarchy of functions and services within the banking sector, focusing on various banking operations.",
+  "commonSkills": [
+    "Financial Analysis",
+    "Risk Management",
+    "Customer Relationship Management",
+    "Regulatory Compliance",
+    "Loan Processing"
+  ],
+  "commonTools": [
+    "Financial Modeling Software",
+    "Customer Relationship Management (CRM) Systems",
+    "Investment Analysis Tools",
+    "Risk Assessment Software"
+  ],
+  "examples": [
+    "Personal loans in Retail Banking",
+    "Small business loans in Commercial Banking",
+    "Mergers and Acquisitions in Investment Banking",
+    "Wealth management in Private Banking"
+  ]
+}

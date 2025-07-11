@@ -1,0 +1,11 @@
+/target
+.idea
+Cargo.lock
+*.iml
+node_modules
+bun.lockb
+.junie
+project
+.env
+
+

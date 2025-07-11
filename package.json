@@ -1,0 +1,27 @@
+{
+  "name": "sumpin",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/uuid": "^10.0.0"
+  },
+  "scripts": {
+    "start": "bun ./index.ts",
+    "cli": "bun ./cli.ts",
+    "sumpin": "bun ./cli.ts",
+    "generate": "bun ./cli.ts",
+    "demo": "bun ./index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.0.11",
+    "mobx": "^6.13.7",
+    "mobx-state-tree": "^7.0.2",
+    "openai": "^5.9.0",
+    "uuid": "^11.1.0",
+    "zod": "<=3.25.67"
+  }
+}
